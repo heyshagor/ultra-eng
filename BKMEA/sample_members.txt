@@ -1,0 +1,7 @@
+# BKMEA Member IDs to scrape
+# Lines starting with # are comments
+# One ID per line
+
+1730
+2820
+2819
