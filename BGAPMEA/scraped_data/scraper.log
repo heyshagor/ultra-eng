@@ -1,0 +1,388 @@
+Starting BGAPMEA member scraper...
+
+Fetching page 1: https://www.bgapmea.org/index.php/member
+Found 15 member links. Total so far: 15
+Fetching page 2: https://www.bgapmea.org/index.php/member/index/30
+Found 15 member links. Total so far: 30
+Fetching page 3: https://www.bgapmea.org/index.php/member/index/45
+Found 15 member links. Total so far: 45
+Fetching page 4: https://www.bgapmea.org/index.php/member/index/60
+Found 15 member links. Total so far: 60
+Fetching page 5: https://www.bgapmea.org/index.php/member/index/75
+Found 15 member links. Total so far: 75
+Fetching page 6: https://www.bgapmea.org/index.php/member/index/90
+Found 15 member links. Total so far: 90
+Fetching page 7: https://www.bgapmea.org/index.php/member/index/105
+Found 15 member links. Total so far: 105
+Fetching page 8: https://www.bgapmea.org/index.php/member/index/120
+Found 15 member links. Total so far: 120
+Fetching page 9: https://www.bgapmea.org/index.php/member/index/135
+Found 15 member links. Total so far: 135
+Fetching page 10: https://www.bgapmea.org/index.php/member/index/150
+Found 15 member links. Total so far: 150
+Fetching page 11: https://www.bgapmea.org/index.php/member/index/165
+Found 15 member links. Total so far: 165
+Fetching page 12: https://www.bgapmea.org/index.php/member/index/180
+Found 15 member links. Total so far: 180
+Fetching page 13: https://www.bgapmea.org/index.php/member/index/195
+Found 15 member links. Total so far: 195
+Fetching page 14: https://www.bgapmea.org/index.php/member/index/210
+Found 15 member links. Total so far: 210
+Fetching page 15: https://www.bgapmea.org/index.php/member/index/225
+Found 15 member links. Total so far: 225
+Fetching page 16: https://www.bgapmea.org/index.php/member/index/240
+Found 15 member links. Total so far: 240
+Fetching page 17: https://www.bgapmea.org/index.php/member/index/255
+Found 15 member links. Total so far: 255
+Fetching page 18: https://www.bgapmea.org/index.php/member/index/270
+Found 15 member links. Total so far: 270
+Fetching page 19: https://www.bgapmea.org/index.php/member/index/285
+Found 15 member links. Total so far: 285
+Fetching page 20: https://www.bgapmea.org/index.php/member/index/300
+Found 15 member links. Total so far: 300
+
+Total unique member detail links: 300
+Scraping member 1/300: https://www.bgapmea.org/index.php/member/member_details/882
+Scraping member 2/300: https://www.bgapmea.org/index.php/member/member_details/1082
+Scraping member 3/300: https://www.bgapmea.org/index.php/member/member_details/1256
+Scraping member 4/300: https://www.bgapmea.org/index.php/member/member_details/1069
+Scraping member 5/300: https://www.bgapmea.org/index.php/member/member_details/1225
+Scraping member 6/300: https://www.bgapmea.org/index.php/member/member_details/163
+Scraping member 7/300: https://www.bgapmea.org/index.php/member/member_details/1262
+Scraping member 8/300: https://www.bgapmea.org/index.php/member/member_details/132
+Scraping member 9/300: https://www.bgapmea.org/index.php/member/member_details/1389
+Scraping member 10/300: https://www.bgapmea.org/index.php/member/member_details/1455
+  Progress saved: 10 members
+Scraping member 11/300: https://www.bgapmea.org/index.php/member/member_details/139
+Scraping member 12/300: https://www.bgapmea.org/index.php/member/member_details/161
+Scraping member 13/300: https://www.bgapmea.org/index.php/member/member_details/34
+Scraping member 14/300: https://www.bgapmea.org/index.php/member/member_details/31
+Scraping member 15/300: https://www.bgapmea.org/index.php/member/member_details/975
+Scraping member 16/300: https://www.bgapmea.org/index.php/member/member_details/1316
+Scraping member 17/300: https://www.bgapmea.org/index.php/member/member_details/1304
+Scraping member 18/300: https://www.bgapmea.org/index.php/member/member_details/1698
+Scraping member 19/300: https://www.bgapmea.org/index.php/member/member_details/181
+Scraping member 20/300: https://www.bgapmea.org/index.php/member/member_details/6
+  Progress saved: 20 members
+Scraping member 21/300: https://www.bgapmea.org/index.php/member/member_details/36
+Scraping member 22/300: https://www.bgapmea.org/index.php/member/member_details/11
+Scraping member 23/300: https://www.bgapmea.org/index.php/member/member_details/1144
+Scraping member 24/300: https://www.bgapmea.org/index.php/member/member_details/1459
+Scraping member 25/300: https://www.bgapmea.org/index.php/member/member_details/1707
+Scraping member 26/300: https://www.bgapmea.org/index.php/member/member_details/121
+Scraping member 27/300: https://www.bgapmea.org/index.php/member/member_details/176
+Scraping member 28/300: https://www.bgapmea.org/index.php/member/member_details/1400
+Scraping member 29/300: https://www.bgapmea.org/index.php/member/member_details/1132
+Scraping member 30/300: https://www.bgapmea.org/index.php/member/member_details/1471
+  Progress saved: 30 members
+Scraping member 31/300: https://www.bgapmea.org/index.php/member/member_details/1494
+Scraping member 32/300: https://www.bgapmea.org/index.php/member/member_details/155
+Scraping member 33/300: https://www.bgapmea.org/index.php/member/member_details/1003
+Scraping member 34/300: https://www.bgapmea.org/index.php/member/member_details/1185
+Scraping member 35/300: https://www.bgapmea.org/index.php/member/member_details/1620
+Scraping member 36/300: https://www.bgapmea.org/index.php/member/member_details/1732
+Scraping member 37/300: https://www.bgapmea.org/index.php/member/member_details/109
+Scraping member 38/300: https://www.bgapmea.org/index.php/member/member_details/1152
+Scraping member 39/300: https://www.bgapmea.org/index.php/member/member_details/1063
+Scraping member 40/300: https://www.bgapmea.org/index.php/member/member_details/1039
+  Progress saved: 40 members
+Scraping member 41/300: https://www.bgapmea.org/index.php/member/member_details/205
+Scraping member 42/300: https://www.bgapmea.org/index.php/member/member_details/208
+Scraping member 43/300: https://www.bgapmea.org/index.php/member/member_details/1196
+Scraping member 44/300: https://www.bgapmea.org/index.php/member/member_details/141
+Scraping member 45/300: https://www.bgapmea.org/index.php/member/member_details/190
+Scraping member 46/300: https://www.bgapmea.org/index.php/member/member_details/47
+Scraping member 47/300: https://www.bgapmea.org/index.php/member/member_details/145
+Scraping member 48/300: https://www.bgapmea.org/index.php/member/member_details/54
+Scraping member 49/300: https://www.bgapmea.org/index.php/member/member_details/211
+Scraping member 50/300: https://www.bgapmea.org/index.php/member/member_details/1569
+  Progress saved: 50 members
+Scraping member 51/300: https://www.bgapmea.org/index.php/member/member_details/1549
+Scraping member 52/300: https://www.bgapmea.org/index.php/member/member_details/1585
+Scraping member 53/300: https://www.bgapmea.org/index.php/member/member_details/1210
+Scraping member 54/300: https://www.bgapmea.org/index.php/member/member_details/80
+Scraping member 55/300: https://www.bgapmea.org/index.php/member/member_details/968
+Scraping member 56/300: https://www.bgapmea.org/index.php/member/member_details/226
+Scraping member 57/300: https://www.bgapmea.org/index.php/member/member_details/1578
+Scraping member 58/300: https://www.bgapmea.org/index.php/member/member_details/1237
+Scraping member 59/300: https://www.bgapmea.org/index.php/member/member_details/1274
+Scraping member 60/300: https://www.bgapmea.org/index.php/member/member_details/1103
+  Progress saved: 60 members
+Scraping member 61/300: https://www.bgapmea.org/index.php/member/member_details/1484
+Scraping member 62/300: https://www.bgapmea.org/index.php/member/member_details/1457
+Scraping member 63/300: https://www.bgapmea.org/index.php/member/member_details/158
+Scraping member 64/300: https://www.bgapmea.org/index.php/member/member_details/45
+Scraping member 65/300: https://www.bgapmea.org/index.php/member/member_details/1477
+Scraping member 66/300: https://www.bgapmea.org/index.php/member/member_details/193
+Scraping member 67/300: https://www.bgapmea.org/index.php/member/member_details/93
+Scraping member 68/300: https://www.bgapmea.org/index.php/member/member_details/204
+Scraping member 69/300: https://www.bgapmea.org/index.php/member/member_details/67
+Scraping member 70/300: https://www.bgapmea.org/index.php/member/member_details/116
+  Progress saved: 70 members
+Scraping member 71/300: https://www.bgapmea.org/index.php/member/member_details/58
+Scraping member 72/300: https://www.bgapmea.org/index.php/member/member_details/913
+Scraping member 73/300: https://www.bgapmea.org/index.php/member/member_details/149
+Scraping member 74/300: https://www.bgapmea.org/index.php/member/member_details/887
+Scraping member 75/300: https://www.bgapmea.org/index.php/member/member_details/228
+Scraping member 76/300: https://www.bgapmea.org/index.php/member/member_details/1118
+Scraping member 77/300: https://www.bgapmea.org/index.php/member/member_details/1532
+Scraping member 78/300: https://www.bgapmea.org/index.php/member/member_details/30
+Scraping member 79/300: https://www.bgapmea.org/index.php/member/member_details/46
+Scraping member 80/300: https://www.bgapmea.org/index.php/member/member_details/180
+  Progress saved: 80 members
+Scraping member 81/300: https://www.bgapmea.org/index.php/member/member_details/1595
+Scraping member 82/300: https://www.bgapmea.org/index.php/member/member_details/1714
+Scraping member 83/300: https://www.bgapmea.org/index.php/member/member_details/1740
+Scraping member 84/300: https://www.bgapmea.org/index.php/member/member_details/1536
+Scraping member 85/300: https://www.bgapmea.org/index.php/member/member_details/1289
+Scraping member 86/300: https://www.bgapmea.org/index.php/member/member_details/98
+Scraping member 87/300: https://www.bgapmea.org/index.php/member/member_details/189
+Scraping member 88/300: https://www.bgapmea.org/index.php/member/member_details/900
+Scraping member 89/300: https://www.bgapmea.org/index.php/member/member_details/1561
+Scraping member 90/300: https://www.bgapmea.org/index.php/member/member_details/1216
+  Progress saved: 90 members
+Scraping member 91/300: https://www.bgapmea.org/index.php/member/member_details/1099
+Scraping member 92/300: https://www.bgapmea.org/index.php/member/member_details/95
+Scraping member 93/300: https://www.bgapmea.org/index.php/member/member_details/25
+Scraping member 94/300: https://www.bgapmea.org/index.php/member/member_details/1067
+Scraping member 95/300: https://www.bgapmea.org/index.php/member/member_details/123
+Scraping member 96/300: https://www.bgapmea.org/index.php/member/member_details/1191
+Scraping member 97/300: https://www.bgapmea.org/index.php/member/member_details/27
+Scraping member 98/300: https://www.bgapmea.org/index.php/member/member_details/114
+Scraping member 99/300: https://www.bgapmea.org/index.php/member/member_details/1661
+Scraping member 100/300: https://www.bgapmea.org/index.php/member/member_details/1098
+  Progress saved: 100 members
+Scraping member 101/300: https://www.bgapmea.org/index.php/member/member_details/1071
+Scraping member 102/300: https://www.bgapmea.org/index.php/member/member_details/102
+Scraping member 103/300: https://www.bgapmea.org/index.php/member/member_details/218
+Scraping member 104/300: https://www.bgapmea.org/index.php/member/member_details/1145
+Scraping member 105/300: https://www.bgapmea.org/index.php/member/member_details/168
+Scraping member 106/300: https://www.bgapmea.org/index.php/member/member_details/65
+Scraping member 107/300: https://www.bgapmea.org/index.php/member/member_details/1233
+Scraping member 108/300: https://www.bgapmea.org/index.php/member/member_details/1177
+Scraping member 109/300: https://www.bgapmea.org/index.php/member/member_details/201
+Scraping member 110/300: https://www.bgapmea.org/index.php/member/member_details/1597
+  Progress saved: 110 members
+Scraping member 111/300: https://www.bgapmea.org/index.php/member/member_details/1007
+Scraping member 112/300: https://www.bgapmea.org/index.php/member/member_details/1703
+Scraping member 113/300: https://www.bgapmea.org/index.php/member/member_details/174
+Scraping member 114/300: https://www.bgapmea.org/index.php/member/member_details/1502
+Scraping member 115/300: https://www.bgapmea.org/index.php/member/member_details/70
+Scraping member 116/300: https://www.bgapmea.org/index.php/member/member_details/178
+Scraping member 117/300: https://www.bgapmea.org/index.php/member/member_details/196
+Scraping member 118/300: https://www.bgapmea.org/index.php/member/member_details/12
+Scraping member 119/300: https://www.bgapmea.org/index.php/member/member_details/14
+Scraping member 120/300: https://www.bgapmea.org/index.php/member/member_details/9
+  Progress saved: 120 members
+Scraping member 121/300: https://www.bgapmea.org/index.php/member/member_details/1589
+Scraping member 122/300: https://www.bgapmea.org/index.php/member/member_details/1328
+Scraping member 123/300: https://www.bgapmea.org/index.php/member/member_details/1545
+Scraping member 124/300: https://www.bgapmea.org/index.php/member/member_details/1611
+Scraping member 125/300: https://www.bgapmea.org/index.php/member/member_details/1680
+Scraping member 126/300: https://www.bgapmea.org/index.php/member/member_details/194
+Scraping member 127/300: https://www.bgapmea.org/index.php/member/member_details/1281
+Scraping member 128/300: https://www.bgapmea.org/index.php/member/member_details/1241
+Scraping member 129/300: https://www.bgapmea.org/index.php/member/member_details/103
+Scraping member 130/300: https://www.bgapmea.org/index.php/member/member_details/166
+  Progress saved: 130 members
+Scraping member 131/300: https://www.bgapmea.org/index.php/member/member_details/1622
+Scraping member 132/300: https://www.bgapmea.org/index.php/member/member_details/1301
+Scraping member 133/300: https://www.bgapmea.org/index.php/member/member_details/1542
+Scraping member 134/300: https://www.bgapmea.org/index.php/member/member_details/933
+Scraping member 135/300: https://www.bgapmea.org/index.php/member/member_details/223
+Scraping member 136/300: https://www.bgapmea.org/index.php/member/member_details/85
+Scraping member 137/300: https://www.bgapmea.org/index.php/member/member_details/1343
+Scraping member 138/300: https://www.bgapmea.org/index.php/member/member_details/1497
+Scraping member 139/300: https://www.bgapmea.org/index.php/member/member_details/133
+Scraping member 140/300: https://www.bgapmea.org/index.php/member/member_details/981
+  Progress saved: 140 members
+Scraping member 141/300: https://www.bgapmea.org/index.php/member/member_details/138
+Scraping member 142/300: https://www.bgapmea.org/index.php/member/member_details/1375
+Scraping member 143/300: https://www.bgapmea.org/index.php/member/member_details/993
+Scraping member 144/300: https://www.bgapmea.org/index.php/member/member_details/1163
+Scraping member 145/300: https://www.bgapmea.org/index.php/member/member_details/1395
+Scraping member 146/300: https://www.bgapmea.org/index.php/member/member_details/1124
+Scraping member 147/300: https://www.bgapmea.org/index.php/member/member_details/1460
+Scraping member 148/300: https://www.bgapmea.org/index.php/member/member_details/1441
+Scraping member 149/300: https://www.bgapmea.org/index.php/member/member_details/118
+Scraping member 150/300: https://www.bgapmea.org/index.php/member/member_details/1706
+  Progress saved: 150 members
+Scraping member 151/300: https://www.bgapmea.org/index.php/member/member_details/1688
+Scraping member 152/300: https://www.bgapmea.org/index.php/member/member_details/1058
+Scraping member 153/300: https://www.bgapmea.org/index.php/member/member_details/199
+Scraping member 154/300: https://www.bgapmea.org/index.php/member/member_details/184
+Scraping member 155/300: https://www.bgapmea.org/index.php/member/member_details/120
+Scraping member 156/300: https://www.bgapmea.org/index.php/member/member_details/878
+Scraping member 157/300: https://www.bgapmea.org/index.php/member/member_details/156
+Scraping member 158/300: https://www.bgapmea.org/index.php/member/member_details/1592
+Scraping member 159/300: https://www.bgapmea.org/index.php/member/member_details/1276
+Scraping member 160/300: https://www.bgapmea.org/index.php/member/member_details/1339
+  Progress saved: 160 members
+Scraping member 161/300: https://www.bgapmea.org/index.php/member/member_details/151
+Scraping member 162/300: https://www.bgapmea.org/index.php/member/member_details/99
+Scraping member 163/300: https://www.bgapmea.org/index.php/member/member_details/146
+Scraping member 164/300: https://www.bgapmea.org/index.php/member/member_details/92
+Scraping member 165/300: https://www.bgapmea.org/index.php/member/member_details/1208
+Scraping member 166/300: https://www.bgapmea.org/index.php/member/member_details/1599
+Scraping member 167/300: https://www.bgapmea.org/index.php/member/member_details/931
+Scraping member 168/300: https://www.bgapmea.org/index.php/member/member_details/147
+Scraping member 169/300: https://www.bgapmea.org/index.php/member/member_details/1364
+Scraping member 170/300: https://www.bgapmea.org/index.php/member/member_details/1564
+  Progress saved: 170 members
+Scraping member 171/300: https://www.bgapmea.org/index.php/member/member_details/106
+Scraping member 172/300: https://www.bgapmea.org/index.php/member/member_details/28
+Scraping member 173/300: https://www.bgapmea.org/index.php/member/member_details/1470
+Scraping member 174/300: https://www.bgapmea.org/index.php/member/member_details/1390
+Scraping member 175/300: https://www.bgapmea.org/index.php/member/member_details/1480
+Scraping member 176/300: https://www.bgapmea.org/index.php/member/member_details/1201
+Scraping member 177/300: https://www.bgapmea.org/index.php/member/member_details/899
+Scraping member 178/300: https://www.bgapmea.org/index.php/member/member_details/140
+Scraping member 179/300: https://www.bgapmea.org/index.php/member/member_details/1001
+Scraping member 180/300: https://www.bgapmea.org/index.php/member/member_details/222
+  Progress saved: 180 members
+Scraping member 181/300: https://www.bgapmea.org/index.php/member/member_details/1500
+Scraping member 182/300: https://www.bgapmea.org/index.php/member/member_details/1538
+Scraping member 183/300: https://www.bgapmea.org/index.php/member/member_details/112
+Scraping member 184/300: https://www.bgapmea.org/index.php/member/member_details/1252
+Scraping member 185/300: https://www.bgapmea.org/index.php/member/member_details/171
+Scraping member 186/300: https://www.bgapmea.org/index.php/member/member_details/72
+Scraping member 187/300: https://www.bgapmea.org/index.php/member/member_details/1736
+Scraping member 188/300: https://www.bgapmea.org/index.php/member/member_details/1351
+Scraping member 189/300: https://www.bgapmea.org/index.php/member/member_details/192
+Scraping member 190/300: https://www.bgapmea.org/index.php/member/member_details/936
+  Progress saved: 190 members
+Scraping member 191/300: https://www.bgapmea.org/index.php/member/member_details/56
+Scraping member 192/300: https://www.bgapmea.org/index.php/member/member_details/1708
+Scraping member 193/300: https://www.bgapmea.org/index.php/member/member_details/1333
+Scraping member 194/300: https://www.bgapmea.org/index.php/member/member_details/1214
+Scraping member 195/300: https://www.bgapmea.org/index.php/member/member_details/1583
+Scraping member 196/300: https://www.bgapmea.org/index.php/member/member_details/1115
+Scraping member 197/300: https://www.bgapmea.org/index.php/member/member_details/1650
+Scraping member 198/300: https://www.bgapmea.org/index.php/member/member_details/1091
+Scraping member 199/300: https://www.bgapmea.org/index.php/member/member_details/150
+Scraping member 200/300: https://www.bgapmea.org/index.php/member/member_details/1202
+  Progress saved: 200 members
+Scraping member 201/300: https://www.bgapmea.org/index.php/member/member_details/188
+Scraping member 202/300: https://www.bgapmea.org/index.php/member/member_details/1371
+Scraping member 203/300: https://www.bgapmea.org/index.php/member/member_details/1729
+Scraping member 204/300: https://www.bgapmea.org/index.php/member/member_details/1036
+Scraping member 205/300: https://www.bgapmea.org/index.php/member/member_details/955
+Scraping member 206/300: https://www.bgapmea.org/index.php/member/member_details/1562
+Scraping member 207/300: https://www.bgapmea.org/index.php/member/member_details/1447
+Scraping member 208/300: https://www.bgapmea.org/index.php/member/member_details/157
+Scraping member 209/300: https://www.bgapmea.org/index.php/member/member_details/1590
+Scraping member 210/300: https://www.bgapmea.org/index.php/member/member_details/35
+  Progress saved: 210 members
+Scraping member 211/300: https://www.bgapmea.org/index.php/member/member_details/209
+Scraping member 212/300: https://www.bgapmea.org/index.php/member/member_details/1744
+Scraping member 213/300: https://www.bgapmea.org/index.php/member/member_details/1156
+Scraping member 214/300: https://www.bgapmea.org/index.php/member/member_details/119
+Scraping member 215/300: https://www.bgapmea.org/index.php/member/member_details/78
+Scraping member 216/300: https://www.bgapmea.org/index.php/member/member_details/136
+Scraping member 217/300: https://www.bgapmea.org/index.php/member/member_details/198
+Scraping member 218/300: https://www.bgapmea.org/index.php/member/member_details/183
+Scraping member 219/300: https://www.bgapmea.org/index.php/member/member_details/932
+Scraping member 220/300: https://www.bgapmea.org/index.php/member/member_details/1672
+  Progress saved: 220 members
+Scraping member 221/300: https://www.bgapmea.org/index.php/member/member_details/82
+Scraping member 222/300: https://www.bgapmea.org/index.php/member/member_details/1623
+Scraping member 223/300: https://www.bgapmea.org/index.php/member/member_details/1154
+Scraping member 224/300: https://www.bgapmea.org/index.php/member/member_details/105
+Scraping member 225/300: https://www.bgapmea.org/index.php/member/member_details/1519
+Scraping member 226/300: https://www.bgapmea.org/index.php/member/member_details/1387
+Scraping member 227/300: https://www.bgapmea.org/index.php/member/member_details/923
+Scraping member 228/300: https://www.bgapmea.org/index.php/member/member_details/1170
+Scraping member 229/300: https://www.bgapmea.org/index.php/member/member_details/1129
+Scraping member 230/300: https://www.bgapmea.org/index.php/member/member_details/59
+  Progress saved: 230 members
+Scraping member 231/300: https://www.bgapmea.org/index.php/member/member_details/1693
+Scraping member 232/300: https://www.bgapmea.org/index.php/member/member_details/143
+Scraping member 233/300: https://www.bgapmea.org/index.php/member/member_details/160
+Scraping member 234/300: https://www.bgapmea.org/index.php/member/member_details/79
+Scraping member 235/300: https://www.bgapmea.org/index.php/member/member_details/1226
+Scraping member 236/300: https://www.bgapmea.org/index.php/member/member_details/1651
+Scraping member 237/300: https://www.bgapmea.org/index.php/member/member_details/1713
+Scraping member 238/300: https://www.bgapmea.org/index.php/member/member_details/1438
+Scraping member 239/300: https://www.bgapmea.org/index.php/member/member_details/1489
+Scraping member 240/300: https://www.bgapmea.org/index.php/member/member_details/1384
+  Progress saved: 240 members
+Scraping member 241/300: https://www.bgapmea.org/index.php/member/member_details/1365
+Scraping member 242/300: https://www.bgapmea.org/index.php/member/member_details/69
+Scraping member 243/300: https://www.bgapmea.org/index.php/member/member_details/1419
+Scraping member 244/300: https://www.bgapmea.org/index.php/member/member_details/169
+Scraping member 245/300: https://www.bgapmea.org/index.php/member/member_details/26
+Scraping member 246/300: https://www.bgapmea.org/index.php/member/member_details/1594
+Scraping member 247/300: https://www.bgapmea.org/index.php/member/member_details/104
+Scraping member 248/300: https://www.bgapmea.org/index.php/member/member_details/117
+Scraping member 249/300: https://www.bgapmea.org/index.php/member/member_details/1657
+Scraping member 250/300: https://www.bgapmea.org/index.php/member/member_details/1487
+  Progress saved: 250 members
+Scraping member 251/300: https://www.bgapmea.org/index.php/member/member_details/40
+Scraping member 252/300: https://www.bgapmea.org/index.php/member/member_details/1451
+Scraping member 253/300: https://www.bgapmea.org/index.php/member/member_details/1664
+Scraping member 254/300: https://www.bgapmea.org/index.php/member/member_details/1350
+Scraping member 255/300: https://www.bgapmea.org/index.php/member/member_details/202
+Scraping member 256/300: https://www.bgapmea.org/index.php/member/member_details/5
+Scraping member 257/300: https://www.bgapmea.org/index.php/member/member_details/115
+Scraping member 258/300: https://www.bgapmea.org/index.php/member/member_details/200
+Scraping member 259/300: https://www.bgapmea.org/index.php/member/member_details/203
+Scraping member 260/300: https://www.bgapmea.org/index.php/member/member_details/1490
+  Progress saved: 260 members
+Scraping member 261/300: https://www.bgapmea.org/index.php/member/member_details/1320
+Scraping member 262/300: https://www.bgapmea.org/index.php/member/member_details/1563
+Scraping member 263/300: https://www.bgapmea.org/index.php/member/member_details/52
+Scraping member 264/300: https://www.bgapmea.org/index.php/member/member_details/1705
+Scraping member 265/300: https://www.bgapmea.org/index.php/member/member_details/1045
+Scraping member 266/300: https://www.bgapmea.org/index.php/member/member_details/1748
+Scraping member 267/300: https://www.bgapmea.org/index.php/member/member_details/1140
+Scraping member 268/300: https://www.bgapmea.org/index.php/member/member_details/1452
+Scraping member 269/300: https://www.bgapmea.org/index.php/member/member_details/165
+Scraping member 270/300: https://www.bgapmea.org/index.php/member/member_details/1107
+  Progress saved: 270 members
+Scraping member 271/300: https://www.bgapmea.org/index.php/member/member_details/1341
+Scraping member 272/300: https://www.bgapmea.org/index.php/member/member_details/63
+Scraping member 273/300: https://www.bgapmea.org/index.php/member/member_details/13
+Scraping member 274/300: https://www.bgapmea.org/index.php/member/member_details/130
+Scraping member 275/300: https://www.bgapmea.org/index.php/member/member_details/84
+Scraping member 276/300: https://www.bgapmea.org/index.php/member/member_details/1731
+Scraping member 277/300: https://www.bgapmea.org/index.php/member/member_details/74
+Scraping member 278/300: https://www.bgapmea.org/index.php/member/member_details/122
+Scraping member 279/300: https://www.bgapmea.org/index.php/member/member_details/1282
+Scraping member 280/300: https://www.bgapmea.org/index.php/member/member_details/152
+  Progress saved: 280 members
+Scraping member 281/300: https://www.bgapmea.org/index.php/member/member_details/96
+Scraping member 282/300: https://www.bgapmea.org/index.php/member/member_details/57
+Scraping member 283/300: https://www.bgapmea.org/index.php/member/member_details/1501
+Scraping member 284/300: https://www.bgapmea.org/index.php/member/member_details/1588
+Scraping member 285/300: https://www.bgapmea.org/index.php/member/member_details/1582
+Scraping member 286/300: https://www.bgapmea.org/index.php/member/member_details/144
+Scraping member 287/300: https://www.bgapmea.org/index.php/member/member_details/43
+Scraping member 288/300: https://www.bgapmea.org/index.php/member/member_details/1512
+Scraping member 289/300: https://www.bgapmea.org/index.php/member/member_details/1604
+Scraping member 290/300: https://www.bgapmea.org/index.php/member/member_details/29
+  Progress saved: 290 members
+Scraping member 291/300: https://www.bgapmea.org/index.php/member/member_details/42
+Scraping member 292/300: https://www.bgapmea.org/index.php/member/member_details/73
+Scraping member 293/300: https://www.bgapmea.org/index.php/member/member_details/227
+Scraping member 294/300: https://www.bgapmea.org/index.php/member/member_details/1690
+Scraping member 295/300: https://www.bgapmea.org/index.php/member/member_details/90
+Scraping member 296/300: https://www.bgapmea.org/index.php/member/member_details/37
+Scraping member 297/300: https://www.bgapmea.org/index.php/member/member_details/68
+Scraping member 298/300: https://www.bgapmea.org/index.php/member/member_details/1019
+Scraping member 299/300: https://www.bgapmea.org/index.php/member/member_details/1667
+Scraping member 300/300: https://www.bgapmea.org/index.php/member/member_details/964
+  Progress saved: 300 members
+
+✓ Successfully saved 300 members to bgapmea_members.csv
+
+Columns: Company Name, Membership Number, Member Status, Contact Person, Company Address, Factory Address, Phone, Fax, Email, Website, Products, Detail URL
+
+Sample data:
+                                  Company Name  ...                                         Detail URL
+0                            Eminence Sourcing  ...  https://www.bgapmea.org/index.php/member/membe...
+1                            Blue Pack Limited  ...  https://www.bgapmea.org/index.php/member/membe...
+2           Bonito Accessories Industries Ltd.  ...  https://www.bgapmea.org/index.php/member/membe...
+3  Bengal Labels & Accessories Industries Ltd.  ...  https://www.bgapmea.org/index.php/member/membe...
+4                           Bushara Enterprise  ...  https://www.bgapmea.org/index.php/member/membe...
+
+[5 rows x 12 columns]

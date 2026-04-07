@@ -1,0 +1,11 @@
+# BTMA PDF Data Extractor - Complete Requirements
+# Core dependencies (required)
+pdfplumber>=0.11.0
+pandas>=3.0.0
+openpyxl>=3.1.0
+
+# Optional: OCR support for scanned PDFs
+# Uncomment these lines if you need OCR functionality
+# pytesseract>=0.3.10
+# pdf2image>=1.17.0
+# Pillow>=9.1.0

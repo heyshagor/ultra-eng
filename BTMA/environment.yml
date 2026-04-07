@@ -1,0 +1,15 @@
+name: btma-data-extractor
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.9
+  - pandas>=3.0
+  - pip
+  - pip:
+    - pdfplumber>=0.11.0
+    - openpyxl>=3.1.0
+    # Uncomment for OCR support:
+    # - pytesseract>=0.3.10
+    # - pdf2image>=1.17.0
+    # - Pillow>=9.1.0
